@@ -579,7 +579,6 @@ img {
 }
 .modal-title {
   display: block;
-  margin-top: 48px;
   color: var(--navyblue);
   text-align: center;
   font-size: 16px;
